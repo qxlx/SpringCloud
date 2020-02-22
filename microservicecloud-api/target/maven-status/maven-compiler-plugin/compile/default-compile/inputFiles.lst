@@ -1,3 +1,3 @@
-F:\java\idea\microservicecloud\microservicecloud-api\src\main\java\com\hblg\entity\Dept.java
-F:\java\idea\microservicecloud\microservicecloud-api\src\main\java\com\hblg\springcloud\service\DeptClientServiceFallbackFactory.java
-F:\java\idea\microservicecloud\microservicecloud-api\src\main\java\com\hblg\springcloud\service\DeptClientService.java
+F:\java\idea\microservicecloud\SpringCloud\microservicecloud-api\src\main\java\com\hblg\springcloud\service\DeptClientService.java
+F:\java\idea\microservicecloud\SpringCloud\microservicecloud-api\src\main\java\com\hblg\springcloud\service\DeptClientServiceFallbackFactory.java
+F:\java\idea\microservicecloud\SpringCloud\microservicecloud-api\src\main\java\com\hblg\entity\Dept.java

@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c840d3db-b005-41fc-b1df-acf8f776c9c1" name="Default Changelist" comment="" />
+    <list default="true" id="c840d3db-b005-41fc-b1df-acf8f776c9c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/microservicecloudconfigdeptclient8001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/com/hblg/springcloud/DeptProviderConfig8001_App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/com/hblg/springcloud/controller/DeptController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/com/hblg/springcloud/dao/DeptDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/com/hblg/springcloud/service/DeptService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/com/hblg/springcloud/service/DeptServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources/mybatis/mapper/DeptMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources/mybatis/mybatis.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/microservicecloudconfigeurekaclient7001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/src/main/java/com/hblg/springcloud/Config_Git_EurekaServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-api/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-api/target/microservicecloud.jar" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-api/target/microservicecloud.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +55,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -41,6 +69,9 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="1U3XfYvZo6Kb81cpaTjj9wr2003" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -48,9 +79,10 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -64,19 +96,19 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\java\idea\microservicecloud\microservicecloud-provider-dept-hystrix-8001\src\main\java" />
-      <recent name="F:\java\idea\microservicecloud\microservicecloud-provider-dept-hystrix-8001\src\main\resources" />
-      <recent name="F:\java\idea\microservicecloud\microservicecloud-consumer-dept-feign\src\main\java" />
-      <recent name="F:\java\idea\microservicecloud\microservicecloud-consumer-dept-feign\src\main\resources" />
-      <recent name="F:\java\idea\microservicecloud\microservicecloud-provider-dept-8003\src\main\resources" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\java\idea\microservicecloud\microservicecloud-provider-dept-8001\src\main\resources\mybatis\mapper" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.hblg.springcloud" />
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\java\idea\microservicecloud\microservicecloud-provider-dept-8001\src\main\resources\mybatis\mapper" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\java\idea\microservicecloud\SpringCloud\microservicecloud-config-dept-client-8001\src\main\resources" />
+      <recent name="F:\java\idea\microservicecloud\SpringCloud\microservicecloud-config-dept-client-8001\src\main\java" />
+      <recent name="F:\java\idea\microservicecloud\microservicecloud-provider-dept-hystrix-8001\src\main\java" />
+      <recent name="F:\java\idea\microservicecloud\microservicecloud-provider-dept-hystrix-8001\src\main\resources" />
+      <recent name="F:\java\idea\microservicecloud\microservicecloud-consumer-dept-feign\src\main\java" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -97,22 +129,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ConfigClient_3355_StartSpringCloudApp">
-    <configuration name="ConfigClient_3355_StartSpringCloudApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="microservicecloudconfigclient3355" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hblg.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hblg.springcloud.ConfigClient_3355_StartSpringCloudApp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.DeptProviderConfig8001_App">
     <configuration name="Config_3344_StartSpringCloudApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="microservicecloudconfig3344" />
+      <module name="microservicecloud-config-3344" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.hblg.springcloud.*" />
@@ -124,8 +143,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Config_Git_EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservicecloudconfigeurekaclient7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hblg.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hblg.springcloud.Config_Git_EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DeptProvider8001_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="microservicecloudproviderdept8001" />
+      <module name="microservicecloud-provider-dept-8001" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.hblg.springcloud.*" />
@@ -137,21 +169,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EurekaServer7003_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="microservicecloudeureka7003" />
+    <configuration name="DeptProviderConfig8001_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservicecloudconfigdeptclient8001" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.hblg.springcloud.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hblg.springcloud.EurekaServer7003_App" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hblg.springcloud.DeptProviderConfig8001_App" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Zuul_9527_StartSpringCloudApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="microservicecloudzuulgateway9527" />
+      <module name="microservicecloud-zuul-gateway-9527" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.hblg.springcloud.*" />
@@ -165,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.ConfigClient_3355_StartSpringCloudApp" />
-        <item itemvalue="Spring Boot.Config_3344_StartSpringCloudApp" />
-        <item itemvalue="Spring Boot.Zuul_9527_StartSpringCloudApp" />
+        <item itemvalue="Spring Boot.DeptProviderConfig8001_App" />
+        <item itemvalue="Spring Boot.Config_3344_StartSpringCloudApp (1)" />
+        <item itemvalue="Spring Boot.Config_Git_EurekaServerApplication" />
         <item itemvalue="Spring Boot.DeptProvider8001_App" />
-        <item itemvalue="Spring Boot.EurekaServer7003_App" />
+        <item itemvalue="Spring Boot.Zuul_9527_StartSpringCloudApp (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -209,10 +241,25 @@
       <workItem from="1582197296353" duration="4553000" />
       <workItem from="1582265180199" duration="5035000" />
       <workItem from="1582282210052" duration="4504000" />
+      <workItem from="1582293495390" duration="828000" />
+      <workItem from="1582339596805" duration="5325000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
